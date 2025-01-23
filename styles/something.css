@@ -1,3 +1,27 @@
-body {
-  background-color: white;
+*{
+padding: 0;
+}
+
+.announcement-bar-text {
+  background-color: rgb(47, 255, 78);
+  display: flex;
+text-align: center;
+    flex-wrap: nowrap;
+    flex: 0 auto;
+    place-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: -2px;
+    margin-bottom: -6px;
+    padding: 5px 0;
+    gap: 20px;
+}
+
+.text-block {
+  color: #000;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Neuepixelgrotesk, sans-serif;
+  font-size: 13px;
+  display: inline-block;
 }
