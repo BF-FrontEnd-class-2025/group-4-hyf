@@ -1,6 +1,6 @@
 # Name of project
 
-> A longer description
+> The project is to reverse engineer the [Hack Your Future (HYF) website](https://www.hackyourfuture.net/).
 
 ## Table of contents
 
@@ -32,13 +32,13 @@
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
 - `npm run start`
+- `npm install`
 
 ## Code Examples
 
@@ -66,11 +66,14 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by HYF 2025 Group 4
 
 ## Contact
 
-By [Name]
+- [Alamgir](https://github.com/alamgir1973)
+- [Artur](https://github.com/gritchin-artur)
+- [Roman](https://github.com/kovbinka)
+- [Manloi](https://github.com/jimanloi)
 
 ## Instructions for use
 
