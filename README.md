@@ -1,11 +1,11 @@
-# Name of project
+# Hack Your Future
 
 > The project is to reverse engineer the
 > [Hack Your Future (HYF) website](https://www.hackyourfuture.net/).
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Hack Your Future](#hack-your-future)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -23,11 +23,12 @@
 
 ## General info
 
-> A short description
+> This site is about training people with a refugee background to become web
+developers and software testers through a free seven month program.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot.png)
 
 ## Technologies
 
@@ -43,27 +44,31 @@
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<div class="announcement-bar-text">
+      <div class="text-block">
+        JOIN COHORT 53 - ASSIGNMENT WILL BE SENT EARLY 2025
+      </div>
+      <div class="text-block hidden">
+        JOIN COHORT 53 - ASSIGNMENT WILL BE SENT EARLY 2025
+      </div>
+    </div>
 ```
 
-## Features
+<!-- ## Features
 
 List of features ready and Todos for future development
 
--
--
 -
 
 To-do list:
 
 -
--
+- -->
 
 ## Status
 
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
 
@@ -83,8 +88,8 @@ Project by HYF 2025 Group 4
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
+1. `git clone https://github.com/BF-FrontEnd-class-2025/group-4-hyf.git`
+2. `cd group-4-hyf`
 3. `npm install`
 
 ## Code Quality Checks
