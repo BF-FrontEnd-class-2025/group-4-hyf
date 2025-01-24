@@ -1,7 +1,9 @@
 # HYF Website
 
 <!-- describe your project -->
-This project is to reverse engineer the [Hack Your Future (HYF) website](https://www.hackyourfuture.net/).
+
+This project is to reverse engineer the
+[Hack Your Future (HYF) website](https://www.hackyourfuture.net/).
 
 ---
 
@@ -103,8 +105,7 @@ This feature develops on a branch `hiring-talent-section`.
 
 #### HTML
 
-- Add `div`
--- Add `img`
+- Add `div` -- Add `img`
 
 #### CSS
 
@@ -116,8 +117,7 @@ This feature develops on a branch `about-hyf`.
 
 #### HTML
 
-- Add `div`
--- Add `img`
+- Add `div` -- Add `img`
 
 #### CSS
 
