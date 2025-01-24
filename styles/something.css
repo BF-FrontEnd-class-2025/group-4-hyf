@@ -3,7 +3,7 @@
 }
 
 .announcement-bar-text {
-  background-color: rgb(47, 255, 78);
+  background-color: rgb(47 255 78);
   display: flex;
   text-align: center;
   flex-wrap: nowrap;
