@@ -1,6 +1,7 @@
 # Name of project
 
-> The project is to reverse engineer the [Hack Your Future (HYF) website](https://www.hackyourfuture.net/).
+> The project is to reverse engineer the
+> [Hack Your Future (HYF) website](https://www.hackyourfuture.net/).
 
 ## Table of contents
 
